@@ -1,0 +1,21 @@
+
+h1 {
+    color:rgb(244, 114, 8);
+    font-size: 80px;
+    }
+h2 {
+    color:red;
+    font-size: 60px;
+}
+h4 {
+    color:blue;
+    font-size: 40px;
+}
+body{
+    background-color: rgb(216, 239, 246);
+    text-align: center;
+}
+h5 {
+color: rgb(240, 128, 9);
+font-size: 40px;
+}
